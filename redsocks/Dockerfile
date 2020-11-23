@@ -1,6 +1,6 @@
 # Redsocks docker image.
 
-FROM debian:jessie
+FROM debian:stable-slim
 
 MAINTAINER Nicolas Carlier <https://github.com/ncarlier>
 
